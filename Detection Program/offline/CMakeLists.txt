@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( offline )
+find_package( OpenCV REQUIRED )
+add_executable( offline offline.cpp )
+target_link_libraries( offline ${OpenCV_LIBS} )

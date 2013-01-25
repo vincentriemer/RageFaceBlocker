@@ -1,0 +1,2 @@
+module RageBlockerHelper
+end

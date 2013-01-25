@@ -1,0 +1,699 @@
+/home/parallels/Pictures/Rage Faces/01.png
+/home/parallels/Pictures/Rage Faces/01blackhair.png
+/home/parallels/Pictures/Rage Faces/01blondehair.png
+/home/parallels/Pictures/Rage Faces/01brunettehair.png
+/home/parallels/Pictures/Rage Faces/1darkokay.png
+/home/parallels/Pictures/Rage Faces/01 - later1.jpg
+/home/parallels/Pictures/Rage Faces/01 - later2.jpg
+/home/parallels/Pictures/Rage Faces/01 - later3.jpg
+/home/parallels/Pictures/Rage Faces/01 - later3_1.jpg
+/home/parallels/Pictures/Rage Faces/01 - later4.jpg
+/home/parallels/Pictures/Rage Faces/01 - later5.jpg
+/home/parallels/Pictures/Rage Faces/01 - later6.jpg
+/home/parallels/Pictures/Rage Faces/01 - later7.jpg
+/home/parallels/Pictures/Rage Faces/01 - later8.jpg
+/home/parallels/Pictures/Rage Faces/01redhair.png
+/home/parallels/Pictures/Rage Faces/01 - same evening.jpg
+/home/parallels/Pictures/Rage Faces/01sde1.png
+/home/parallels/Pictures/Rage Faces/01 - s_eventually.jpg
+/home/parallels/Pictures/Rage Faces/02.png
+/home/parallels/Pictures/Rage Faces/02 - 10 seconds.jpg
+/home/parallels/Pictures/Rage Faces/02 - 12 seconds.jpg
+/home/parallels/Pictures/Rage Faces/02blackhair.png
+/home/parallels/Pictures/Rage Faces/2SadShadow.png
+/home/parallels/Pictures/Rage Faces/02sde2.png
+/home/parallels/Pictures/Rage Faces/03.png
+/home/parallels/Pictures/Rage Faces/03 - 1 37 seconds.jpg
+/home/parallels/Pictures/Rage Faces/03 - 2 minutes.jpg
+/home/parallels/Pictures/Rage Faces/03 - 4 minutes.jpg
+/home/parallels/Pictures/Rage Faces/03 - 4 minutes2.jpg
+/home/parallels/Pictures/Rage Faces/03 - 5 minutes.jpg
+/home/parallels/Pictures/Rage Faces/03 - 15 minutes.jpg
+/home/parallels/Pictures/Rage Faces/03 - 20 minutes.jpg
+/home/parallels/Pictures/Rage Faces/03 - 346 minutes.jpg
+/home/parallels/Pictures/Rage Faces/3Actually.png
+/home/parallels/Pictures/Rage Faces/03blackhair.png
+/home/parallels/Pictures/Rage Faces/03shut.jpg
+/home/parallels/Pictures/Rage Faces/04.png
+/home/parallels/Pictures/Rage Faces/04 - 1 hour.jpg
+/home/parallels/Pictures/Rage Faces/04 - 2 hours.jpg
+/home/parallels/Pictures/Rage Faces/04 - 2 hours2.jpg
+/home/parallels/Pictures/Rage Faces/04 - 2 hours3.jpg
+/home/parallels/Pictures/Rage Faces/04 - 2 hours4.jpg
+/home/parallels/Pictures/Rage Faces/04 - 2 hours5.jpg
+/home/parallels/Pictures/Rage Faces/04 - 3 hours.jpg
+/home/parallels/Pictures/Rage Faces/04 - 3 hours2.jpg
+/home/parallels/Pictures/Rage Faces/04 - 3 hours3.jpg
+/home/parallels/Pictures/Rage Faces/04 - 6 hours.jpg
+/home/parallels/Pictures/Rage Faces/04 - 6 hours2.jpg
+/home/parallels/Pictures/Rage Faces/04 - 6 hours3.jpg
+/home/parallels/Pictures/Rage Faces/04 - 7 hours.jpg
+/home/parallels/Pictures/Rage Faces/04 - 8 hours.jpg
+/home/parallels/Pictures/Rage Faces/04 - 8 hours2.jpg
+/home/parallels/Pictures/Rage Faces/04 - 48 hours.jpg
+/home/parallels/Pictures/Rage Faces/04down.png
+/home/parallels/Pictures/Rage Faces/4ItsNotOkay.png
+/home/parallels/Pictures/Rage Faces/05.png
+/home/parallels/Pictures/Rage Faces/05 - 1 day.jpg
+/home/parallels/Pictures/Rage Faces/05 - 1 day2.jpg
+/home/parallels/Pictures/Rage Faces/05 - 3 days.jpg
+/home/parallels/Pictures/Rage Faces/05 - 3 days2.jpg
+/home/parallels/Pictures/Rage Faces/05 - 3 days3.jpg
+/home/parallels/Pictures/Rage Faces/05 - 3 days4.jpg
+/home/parallels/Pictures/Rage Faces/05 - 3 days5.jpg
+/home/parallels/Pictures/Rage Faces/05 - days.jpg
+/home/parallels/Pictures/Rage Faces/05everything.jpg
+/home/parallels/Pictures/Rage Faces/5SoThere.png
+/home/parallels/Pictures/Rage Faces/5SoThere2.png
+/home/parallels/Pictures/Rage Faces/05 - tomorrow.jpg
+/home/parallels/Pictures/Rage Faces/05 - tomorrow2.jpg
+/home/parallels/Pictures/Rage Faces/05 - yesterday.jpg
+/home/parallels/Pictures/Rage Faces/06.png
+/home/parallels/Pictures/Rage Faces/06 - 1 week.jpg
+/home/parallels/Pictures/Rage Faces/06 - 3 weeks.jpg
+/home/parallels/Pictures/Rage Faces/06 - 3 weeks2.jpg
+/home/parallels/Pictures/Rage Faces/06 - 4-6 weeks.jpg
+/home/parallels/Pictures/Rage Faces/07.png
+/home/parallels/Pictures/Rage Faces/07 - 6 months.jpg
+/home/parallels/Pictures/Rage Faces/07 - many months.jpg
+/home/parallels/Pictures/Rage Faces/08.png
+/home/parallels/Pictures/Rage Faces/08 - 2000 years.jpg
+/home/parallels/Pictures/Rage Faces/08 - 3000 years.jpg
+/home/parallels/Pictures/Rage Faces/08 - thousands of tears.jpg
+/home/parallels/Pictures/Rage Faces/09.png
+/home/parallels/Pictures/Rage Faces/09 - 328am.jpg
+/home/parallels/Pictures/Rage Faces/09 - 759am.jpg
+/home/parallels/Pictures/Rage Faces/09 - 801pm.jpg
+/home/parallels/Pictures/Rage Faces/09 - 1200am.jpg
+/home/parallels/Pictures/Rage Faces/10.png
+/home/parallels/Pictures/Rage Faces/10 - day2.jpg
+/home/parallels/Pictures/Rage Faces/10 - day3.jpg
+/home/parallels/Pictures/Rage Faces/10 - day4.jpg
+/home/parallels/Pictures/Rage Faces/11.png
+/home/parallels/Pictures/Rage Faces/12.png
+/home/parallels/Pictures/Rage Faces/13.png
+/home/parallels/Pictures/Rage Faces/14.png
+/home/parallels/Pictures/Rage Faces/15.png
+/home/parallels/Pictures/Rage Faces/16.png
+/home/parallels/Pictures/Rage Faces/17.png
+/home/parallels/Pictures/Rage Faces/18.png
+/home/parallels/Pictures/Rage Faces/19.png
+/home/parallels/Pictures/Rage Faces/20.png
+/home/parallels/Pictures/Rage Faces/21.png
+/home/parallels/Pictures/Rage Faces/22.png
+/home/parallels/Pictures/Rage Faces/23.png
+/home/parallels/Pictures/Rage Faces/24.png
+/home/parallels/Pictures/Rage Faces/27.png
+/home/parallels/Pictures/Rage Faces/28.png
+/home/parallels/Pictures/Rage Faces/30.png
+/home/parallels/Pictures/Rage Faces/31.png
+/home/parallels/Pictures/Rage Faces/32.png
+/home/parallels/Pictures/Rage Faces/33.png
+/home/parallels/Pictures/Rage Faces/34.png
+/home/parallels/Pictures/Rage Faces/36.png
+/home/parallels/Pictures/Rage Faces/37.png
+/home/parallels/Pictures/Rage Faces/38.png
+/home/parallels/Pictures/Rage Faces/39.png
+/home/parallels/Pictures/Rage Faces/40.png
+/home/parallels/Pictures/Rage Faces/41.png
+/home/parallels/Pictures/Rage Faces/42.png
+/home/parallels/Pictures/Rage Faces/43.png
+/home/parallels/Pictures/Rage Faces/44.png
+/home/parallels/Pictures/Rage Faces/aaredditwatermark.png
+/home/parallels/Pictures/Rage Faces/AllTheThings_back.png
+/home/parallels/Pictures/Rage Faces/AllTheThings_blank.png
+/home/parallels/Pictures/Rage Faces/AllTheThings_sad.png
+/home/parallels/Pictures/Rage Faces/AreYouKiddingMe.png
+/home/parallels/Pictures/Rage Faces/AreYouKiddingMeNoText.png
+/home/parallels/Pictures/Rage Faces/awww yeah.jpg
+/home/parallels/Pictures/Rage Faces/AwwYeahFemale.png
+/home/parallels/Pictures/Rage Faces/badass over here.png
+/home/parallels/Pictures/Rage Faces/BadPokerFace.png
+/home/parallels/Pictures/Rage Faces/basically retarded.png
+/home/parallels/Pictures/Rage Faces/BeerGuy.png
+/home/parallels/Pictures/Rage Faces/bic blue.png
+/home/parallels/Pictures/Rage Faces/bic brown.png
+/home/parallels/Pictures/Rage Faces/bic red.png
+/home/parallels/Pictures/Rage Faces/black_big smile.png
+/home/parallels/Pictures/Rage Faces/black_concentrated.png
+/home/parallels/Pictures/Rage Faces/black_crying.png
+/home/parallels/Pictures/Rage Faces/black_dazed.png
+/home/parallels/Pictures/Rage Faces/black_determined.png
+/home/parallels/Pictures/Rage Faces/black_dude.png
+/home/parallels/Pictures/Rage Faces/black_dumbfounded.png
+/home/parallels/Pictures/Rage Faces/black_ewbte.png
+/home/parallels/Pictures/Rage Faces/black_excited.png
+/home/parallels/Pictures/Rage Faces/black_excited bliss.png
+/home/parallels/Pictures/Rage Faces/black_excited tears.png
+/home/parallels/Pictures/Rage Faces/black_facepalm.png
+/home/parallels/Pictures/Rage Faces/black_fake smile.png
+/home/parallels/Pictures/Rage Faces/black_forever alone.png
+/home/parallels/Pictures/Rage Faces/black_freddie.png
+/home/parallels/Pictures/Rage Faces/black_fuck that bitch.png
+/home/parallels/Pictures/Rage Faces/black_fuck yeah.png
+/home/parallels/Pictures/Rage Faces/black_gasp.jpg
+/home/parallels/Pictures/Rage Faces/black_gasp2.jpg
+/home/parallels/Pictures/Rage Faces/BlackGuy.png
+/home/parallels/Pictures/Rage Faces/BlackGuyBeaten.png
+/home/parallels/Pictures/Rage Faces/black_happy.png
+/home/parallels/Pictures/Rage Faces/black_hmmm.png
+/home/parallels/Pictures/Rage Faces/black_i wonder.png
+/home/parallels/Pictures/Rage Faces/black_ladystare.jpg
+/home/parallels/Pictures/Rage Faces/black_ladystare2.jpg
+/home/parallels/Pictures/Rage Faces/black_lean.png
+/home/parallels/Pictures/Rage Faces/black_lol.png
+/home/parallels/Pictures/Rage Faces/black_me gusta.png
+/home/parallels/Pictures/Rage Faces/black_milk.png
+/home/parallels/Pictures/Rage Faces/black_normal.png
+/home/parallels/Pictures/Rage Faces/black_normal2.png
+/home/parallels/Pictures/Rage Faces/black_okay.png
+/home/parallels/Pictures/Rage Faces/black_omgrun.png
+/home/parallels/Pictures/Rage Faces/black_pfft.png
+/home/parallels/Pictures/Rage Faces/black_pokerface.png
+/home/parallels/Pictures/Rage Faces/black_quite.png
+/home/parallels/Pictures/Rage Faces/black_rage.png
+/home/parallels/Pictures/Rage Faces/black_rage2.png
+/home/parallels/Pictures/Rage Faces/BlackRage.png
+/home/parallels/Pictures/Rage Faces/black_rage canadian.png
+/home/parallels/Pictures/Rage Faces/black_rage extreme.png
+/home/parallels/Pictures/Rage Faces/black_rage extreme2.png
+/home/parallels/Pictures/Rage Faces/black_rage foaming.png
+/home/parallels/Pictures/Rage Faces/black_rage getting pissed.png
+/home/parallels/Pictures/Rage Faces/black_rage mad.png
+/home/parallels/Pictures/Rage Faces/black_rage mad2.png
+/home/parallels/Pictures/Rage Faces/black_rage quiet.png
+/home/parallels/Pictures/Rage Faces/black_rage shaking.png
+/home/parallels/Pictures/Rage Faces/black_rage super.png
+/home/parallels/Pictures/Rage Faces/black_really determined.png
+/home/parallels/Pictures/Rage Faces/black_red tongue.png
+/home/parallels/Pictures/Rage Faces/black_schlick.png
+/home/parallels/Pictures/Rage Faces/black_smile.png
+/home/parallels/Pictures/Rage Faces/black_sweet tears.png
+/home/parallels/Pictures/Rage Faces/black_tongue down.png
+/home/parallels/Pictures/Rage Faces/black_troll.png
+/home/parallels/Pictures/Rage Faces/black_troll sad.png
+/home/parallels/Pictures/Rage Faces/black_what.png
+/home/parallels/Pictures/Rage Faces/black_why.png
+/home/parallels/Pictures/Rage Faces/black_why no hands.png
+/home/parallels/Pictures/Rage Faces/black_wut.png
+/home/parallels/Pictures/Rage Faces/blissful not giving a fuck.png
+/home/parallels/Pictures/Rage Faces/blonde_big smile.png
+/home/parallels/Pictures/Rage Faces/blonde_concentrated.png
+/home/parallels/Pictures/Rage Faces/blonde_crying.png
+/home/parallels/Pictures/Rage Faces/blonde_dazed.png
+/home/parallels/Pictures/Rage Faces/blonde_determined.png
+/home/parallels/Pictures/Rage Faces/blonde_dude.png
+/home/parallels/Pictures/Rage Faces/blonde_dumbfounded.png
+/home/parallels/Pictures/Rage Faces/blonde_ewbte.png
+/home/parallels/Pictures/Rage Faces/blonde_excited.png
+/home/parallels/Pictures/Rage Faces/blonde_excited bliss.png
+/home/parallels/Pictures/Rage Faces/blonde_excited tears.png
+/home/parallels/Pictures/Rage Faces/blonde_facepalm.png
+/home/parallels/Pictures/Rage Faces/blonde_fake smile.png
+/home/parallels/Pictures/Rage Faces/blonde_forever alone.png
+/home/parallels/Pictures/Rage Faces/blonde_freddie.png
+/home/parallels/Pictures/Rage Faces/blonde_fuck that bitch.png
+/home/parallels/Pictures/Rage Faces/blonde_fuck yeah.png
+/home/parallels/Pictures/Rage Faces/blonde_gasp.jpg
+/home/parallels/Pictures/Rage Faces/blonde_gasp2.jpg
+/home/parallels/Pictures/Rage Faces/blonde_happy.png
+/home/parallels/Pictures/Rage Faces/blonde_hmmm.png
+/home/parallels/Pictures/Rage Faces/blonde_i wonder.png
+/home/parallels/Pictures/Rage Faces/blonde_ladystare.jpg
+/home/parallels/Pictures/Rage Faces/blonde_ladystare2.jpg
+/home/parallels/Pictures/Rage Faces/blonde_lean.png
+/home/parallels/Pictures/Rage Faces/blonde_lol.png
+/home/parallels/Pictures/Rage Faces/blonde_me gusta.png
+/home/parallels/Pictures/Rage Faces/blonde_milk.png
+/home/parallels/Pictures/Rage Faces/blonde_normal.png
+/home/parallels/Pictures/Rage Faces/blonde_normal2.png
+/home/parallels/Pictures/Rage Faces/blonde_okay.png
+/home/parallels/Pictures/Rage Faces/blonde_omgrun.png
+/home/parallels/Pictures/Rage Faces/blonde_pfft.png
+/home/parallels/Pictures/Rage Faces/blonde_pokerface.png
+/home/parallels/Pictures/Rage Faces/blonde_quite.png
+/home/parallels/Pictures/Rage Faces/blonde_rage.png
+/home/parallels/Pictures/Rage Faces/blonde_rage2.png
+/home/parallels/Pictures/Rage Faces/blonde_rage canadian.png
+/home/parallels/Pictures/Rage Faces/blonde_rage extreme.png
+/home/parallels/Pictures/Rage Faces/blonde_rage extreme2.png
+/home/parallels/Pictures/Rage Faces/blonde_rage foaming.png
+/home/parallels/Pictures/Rage Faces/blonde_rage getting pissed.png
+/home/parallels/Pictures/Rage Faces/blonde_rage mad.png
+/home/parallels/Pictures/Rage Faces/blonde_rage mad2.png
+/home/parallels/Pictures/Rage Faces/blonde_rage quiet.png
+/home/parallels/Pictures/Rage Faces/blonde_rage shaking.png
+/home/parallels/Pictures/Rage Faces/blonde_rage super.png
+/home/parallels/Pictures/Rage Faces/blonde_really determined.png
+/home/parallels/Pictures/Rage Faces/blonde_red tongue.png
+/home/parallels/Pictures/Rage Faces/blonde_schlick.png
+/home/parallels/Pictures/Rage Faces/blonde_smile.png
+/home/parallels/Pictures/Rage Faces/blonde_sweet tears.png
+/home/parallels/Pictures/Rage Faces/blonde_tongue down.png
+/home/parallels/Pictures/Rage Faces/blonde_troll.png
+/home/parallels/Pictures/Rage Faces/blonde_troll sad.png
+/home/parallels/Pictures/Rage Faces/blonde_what.png
+/home/parallels/Pictures/Rage Faces/blonde_why.png
+/home/parallels/Pictures/Rage Faces/blonde_why no hands.png
+/home/parallels/Pictures/Rage Faces/blonde_wut.png
+/home/parallels/Pictures/Rage Faces/bong.png
+/home/parallels/Pictures/Rage Faces/brick1.jpg
+/home/parallels/Pictures/Rage Faces/brick2.jpg
+/home/parallels/Pictures/Rage Faces/brick3.jpg
+/home/parallels/Pictures/Rage Faces/brick4.jpg
+/home/parallels/Pictures/Rage Faces/brick5.jpg
+/home/parallels/Pictures/Rage Faces/brunette_big smile.png
+/home/parallels/Pictures/Rage Faces/brunette_concentrated.png
+/home/parallels/Pictures/Rage Faces/brunette_crying.png
+/home/parallels/Pictures/Rage Faces/brunette_dazed.png
+/home/parallels/Pictures/Rage Faces/brunette_determined.png
+/home/parallels/Pictures/Rage Faces/brunette_dude.png
+/home/parallels/Pictures/Rage Faces/brunette_dumbfounded.png
+/home/parallels/Pictures/Rage Faces/brunette_ewbte.png
+/home/parallels/Pictures/Rage Faces/brunette_excited.png
+/home/parallels/Pictures/Rage Faces/brunette_excited bliss.png
+/home/parallels/Pictures/Rage Faces/brunette_excited tears.png
+/home/parallels/Pictures/Rage Faces/brunette_facepalm.png
+/home/parallels/Pictures/Rage Faces/brunette_fake smile.png
+/home/parallels/Pictures/Rage Faces/brunette_forever alone.png
+/home/parallels/Pictures/Rage Faces/brunette_freddie.png
+/home/parallels/Pictures/Rage Faces/brunette_fuck that bitch.png
+/home/parallels/Pictures/Rage Faces/brunette_fuck yeah.png
+/home/parallels/Pictures/Rage Faces/brunette_gasp.jpg
+/home/parallels/Pictures/Rage Faces/brunette_gasp2.jpg
+/home/parallels/Pictures/Rage Faces/brunette_happy.png
+/home/parallels/Pictures/Rage Faces/brunette_hmmm.png
+/home/parallels/Pictures/Rage Faces/brunette_i wonder.png
+/home/parallels/Pictures/Rage Faces/brunette_ladystare.jpg
+/home/parallels/Pictures/Rage Faces/brunette_ladystare2.jpg
+/home/parallels/Pictures/Rage Faces/brunette_lean.png
+/home/parallels/Pictures/Rage Faces/brunette_lol.png
+/home/parallels/Pictures/Rage Faces/brunette_me gusta.png
+/home/parallels/Pictures/Rage Faces/brunette_milk.png
+/home/parallels/Pictures/Rage Faces/brunette_normal.png
+/home/parallels/Pictures/Rage Faces/brunette_normal2.png
+/home/parallels/Pictures/Rage Faces/brunette_okay.png
+/home/parallels/Pictures/Rage Faces/brunette_omgrun.png
+/home/parallels/Pictures/Rage Faces/brunette_pfft.png
+/home/parallels/Pictures/Rage Faces/brunette_pokerface.png
+/home/parallels/Pictures/Rage Faces/brunette_quite.png
+/home/parallels/Pictures/Rage Faces/brunette_rage.png
+/home/parallels/Pictures/Rage Faces/brunette_rage2.png
+/home/parallels/Pictures/Rage Faces/brunette_rage canadian.png
+/home/parallels/Pictures/Rage Faces/brunette_rage extreme.png
+/home/parallels/Pictures/Rage Faces/brunette_rage extreme2.png
+/home/parallels/Pictures/Rage Faces/brunette_rage foaming.png
+/home/parallels/Pictures/Rage Faces/brunette_rage getting pissed.png
+/home/parallels/Pictures/Rage Faces/brunette_rage mad.png
+/home/parallels/Pictures/Rage Faces/brunette_rage mad2.png
+/home/parallels/Pictures/Rage Faces/brunette_rage quiet.png
+/home/parallels/Pictures/Rage Faces/brunette_rage shaking.png
+/home/parallels/Pictures/Rage Faces/brunette_rage super.png
+/home/parallels/Pictures/Rage Faces/brunette_really determined.png
+/home/parallels/Pictures/Rage Faces/brunette_red tongue.png
+/home/parallels/Pictures/Rage Faces/brunette_schlick.png
+/home/parallels/Pictures/Rage Faces/brunette_smile.png
+/home/parallels/Pictures/Rage Faces/brunette_sweet tears.png
+/home/parallels/Pictures/Rage Faces/brunette_tongue down.png
+/home/parallels/Pictures/Rage Faces/brunette_troll.png
+/home/parallels/Pictures/Rage Faces/brunette_troll sad.png
+/home/parallels/Pictures/Rage Faces/brunette_what.png
+/home/parallels/Pictures/Rage Faces/brunette_why.png
+/home/parallels/Pictures/Rage Faces/brunette_why no hands.png
+/home/parallels/Pictures/Rage Faces/brunette_wut.png
+/home/parallels/Pictures/Rage Faces/bud brick.png
+/home/parallels/Pictures/Rage Faces/bud green.png
+/home/parallels/Pictures/Rage Faces/bud orange.png
+/home/parallels/Pictures/Rage Faces/bud purple.png
+/home/parallels/Pictures/Rage Faces/canadian.png
+/home/parallels/Pictures/Rage Faces/cereal guy.png
+/home/parallels/Pictures/Rage Faces/CerealGuy.png
+/home/parallels/Pictures/Rage Faces/CerealGuyAngry.png
+/home/parallels/Pictures/Rage Faces/CerealGuySip.png
+/home/parallels/Pictures/Rage Faces/CerealGuySquint.png
+/home/parallels/Pictures/Rage Faces/CerealGuySquint2.png
+/home/parallels/Pictures/Rage Faces/CerealSpitting.png
+/home/parallels/Pictures/Rage Faces/ChallengeAccepted.png
+/home/parallels/Pictures/Rage Faces/ChallengeConsidered.png
+/home/parallels/Pictures/Rage Faces/chef hat.png
+/home/parallels/Pictures/Rage Faces/clever girl.jpg
+/home/parallels/Pictures/Rage Faces/CloseEnough.png
+/home/parallels/Pictures/Rage Faces/command1.jpg
+/home/parallels/Pictures/Rage Faces/command2.jpg
+/home/parallels/Pictures/Rage Faces/command3.jpg
+/home/parallels/Pictures/Rage Faces/command4.jpg
+/home/parallels/Pictures/Rage Faces/command5.jpg
+/home/parallels/Pictures/Rage Faces/command6.jpg
+/home/parallels/Pictures/Rage Faces/command7.jpg
+/home/parallels/Pictures/Rage Faces/command8.jpg
+/home/parallels/Pictures/Rage Faces/command9.jpg
+/home/parallels/Pictures/Rage Faces/command10.jpg
+/home/parallels/Pictures/Rage Faces/command11.jpg
+/home/parallels/Pictures/Rage Faces/concentrate inverted tongue side.png
+/home/parallels/Pictures/Rage Faces/concentrate tongue.png
+/home/parallels/Pictures/Rage Faces/ConflictingEmotions.png
+/home/parallels/Pictures/Rage Faces/conflicting emotions no words inverted.png
+/home/parallels/Pictures/Rage Faces/crazy concentrate sweat.png
+/home/parallels/Pictures/Rage Faces/dazed and confused 2.png
+/home/parallels/Pictures/Rage Faces/desk flip.png
+/home/parallels/Pictures/Rage Faces/deviltroll.png
+/home/parallels/Pictures/Rage Faces/dogsweetjesus.png
+/home/parallels/Pictures/Rage Faces/dolan1.png
+/home/parallels/Pictures/Rage Faces/dolan2.png
+/home/parallels/Pictures/Rage Faces/drunk.png
+/home/parallels/Pictures/Rage Faces/dude come on smile.png
+/home/parallels/Pictures/Rage Faces/dumbfounded kid.png
+/home/parallels/Pictures/Rage Faces/dumbfounded woah.png
+/home/parallels/Pictures/Rage Faces/EpicBeardGuy.png
+/home/parallels/Pictures/Rage Faces/EpicFailGuy.png
+/home/parallels/Pictures/Rage Faces/everything went better than expected no words.png
+/home/parallels/Pictures/Rage Faces/evil smile.png
+/home/parallels/Pictures/Rage Faces/EWBTE2.png
+/home/parallels/Pictures/Rage Faces/ewbtetext.png
+/home/parallels/Pictures/Rage Faces/eye twitch.png
+/home/parallels/Pictures/Rage Faces/face1.png
+/home/parallels/Pictures/Rage Faces/face2.png
+/home/parallels/Pictures/Rage Faces/face3.png
+/home/parallels/Pictures/Rage Faces/face4.png
+/home/parallels/Pictures/Rage Faces/face5.png
+/home/parallels/Pictures/Rage Faces/face6.png
+/home/parallels/Pictures/Rage Faces/face_fap.png
+/home/parallels/Pictures/Rage Faces/face_mustache.png
+/home/parallels/Pictures/Rage Faces/falltheu.png
+/home/parallels/Pictures/Rage Faces/fap.png
+/home/parallels/Pictures/Rage Faces/FapFap.png
+/home/parallels/Pictures/Rage Faces/femaleFuckThatShit.png
+/home/parallels/Pictures/Rage Faces/fffffffuuuuuuuuuuuu.png
+/home/parallels/Pictures/Rage Faces/fire.png
+/home/parallels/Pictures/Rage Faces/foreveragamer.png
+/home/parallels/Pictures/Rage Faces/foreveragamer_blank.png
+/home/parallels/Pictures/Rage Faces/ForeverAloneComputer.png
+/home/parallels/Pictures/Rage Faces/ForeverAloneComputer2.png
+/home/parallels/Pictures/Rage Faces/ForeverAloneComputer3.png
+/home/parallels/Pictures/Rage Faces/ForeverAloneExcited.png
+/home/parallels/Pictures/Rage Faces/forever alone without words.png
+/home/parallels/Pictures/Rage Faces/forever alone with words.png
+/home/parallels/Pictures/Rage Faces/forever not giving a fuck.png
+/home/parallels/Pictures/Rage Faces/freddie.png
+/home/parallels/Pictures/Rage Faces/freddiesoclose.png
+/home/parallels/Pictures/Rage Faces/French.png
+/home/parallels/Pictures/Rage Faces/fuck yeah no words inverted smiling.png
+/home/parallels/Pictures/Rage Faces/fuck yeah words.png
+/home/parallels/Pictures/Rage Faces/fumanchu.jpg
+/home/parallels/Pictures/Rage Faces/gasp2panel.png
+/home/parallels/Pictures/Rage Faces/Gasp.png
+/home/parallels/Pictures/Rage Faces/gaspcat.png
+/home/parallels/Pictures/Rage Faces/gaspcat2panel.png
+/home/parallels/Pictures/Rage Faces/gaspcatglasses2panel.png
+/home/parallels/Pictures/Rage Faces/gaspcat with glasses.png
+/home/parallels/Pictures/Rage Faces/gasphand2panel.png
+/home/parallels/Pictures/Rage Faces/GaspHand.png
+/home/parallels/Pictures/Rage Faces/gay forever alone.png
+/home/parallels/Pictures/Rage Faces/gaytroll.png
+/home/parallels/Pictures/Rage Faces/girl-glasses2.jpg
+/home/parallels/Pictures/Rage Faces/goofy smile.png
+/home/parallels/Pictures/Rage Faces/Grandma.png
+/home/parallels/Pictures/Rage Faces/Grandma Shit.png
+/home/parallels/Pictures/Rage Faces/GrannyTroll.png
+/home/parallels/Pictures/Rage Faces/grinch.png
+/home/parallels/Pictures/Rage Faces/gtfo.png
+/home/parallels/Pictures/Rage Faces/gtfo no words inverted smiling.png
+/home/parallels/Pictures/Rage Faces/hair_afro.png
+/home/parallels/Pictures/Rage Faces/hair_bieber.png
+/home/parallels/Pictures/Rage Faces/happy crying.png
+/home/parallels/Pictures/Rage Faces/happy never alone.png
+/home/parallels/Pictures/Rage Faces/happy smoking.png
+/home/parallels/Pictures/Rage Faces/HatAndMonocle.png
+/home/parallels/Pictures/Rage Faces/haters gonna hate mms.jpg
+/home/parallels/Pictures/Rage Faces/haters gonna hate whistling.png
+/home/parallels/Pictures/Rage Faces/HatScumbag.png
+/home/parallels/Pictures/Rage Faces/HerpDerp.png
+/home/parallels/Pictures/Rage Faces/HerpDerp_HQ.png
+/home/parallels/Pictures/Rage Faces/High.png
+/home/parallels/Pictures/Rage Faces/hipsterglasses.png
+/home/parallels/Pictures/Rage Faces/Hitler.png
+/home/parallels/Pictures/Rage Faces/i feels ya bra.png
+/home/parallels/Pictures/Rage Faces/I lied.png
+/home/parallels/Pictures/Rage Faces/I lied_black.jpg
+/home/parallels/Pictures/Rage Faces/I Lied_black2panel.jpg
+/home/parallels/Pictures/Rage Faces/I Lied_black2panel2.jpg
+/home/parallels/Pictures/Rage Faces/im watching you.png
+/home/parallels/Pictures/Rage Faces/ing_bacon.png
+/home/parallels/Pictures/Rage Faces/ing_bacon2.png
+/home/parallels/Pictures/Rage Faces/ing_cheese cheddar.png
+/home/parallels/Pictures/Rage Faces/ing_cheese swiss.png
+/home/parallels/Pictures/Rage Faces/ing_egg.png
+/home/parallels/Pictures/Rage Faces/ing_flour.png
+/home/parallels/Pictures/Rage Faces/ing_garlic.png
+/home/parallels/Pictures/Rage Faces/inglip_burning skeleton.jpg
+/home/parallels/Pictures/Rage Faces/inglip_captcha.png
+/home/parallels/Pictures/Rage Faces/inglip_captchatext.jpg
+/home/parallels/Pictures/Rage Faces/inglip_full body.jpg
+/home/parallels/Pictures/Rage Faces/inglip_full body2.jpg
+/home/parallels/Pictures/Rage Faces/inglip_gropaga1.jpg
+/home/parallels/Pictures/Rage Faces/inglip_gropaga2.jpg
+/home/parallels/Pictures/Rage Faces/inglip_gropaga3.jpg
+/home/parallels/Pictures/Rage Faces/inglip_gropaga4.jpg
+/home/parallels/Pictures/Rage Faces/inglip_gropaga5.jpg
+/home/parallels/Pictures/Rage Faces/inglip_gropaga6.jpg
+/home/parallels/Pictures/Rage Faces/inglip_gropaga7.jpg
+/home/parallels/Pictures/Rage Faces/inglip_gropaga amazed.jpg
+/home/parallels/Pictures/Rage Faces/inglip_gropaga blank.png
+/home/parallels/Pictures/Rage Faces/inglip_gropaga front.jpg
+/home/parallels/Pictures/Rage Faces/inglip_gropaga okay.jpg
+/home/parallels/Pictures/Rage Faces/inglip_gropaga why.jpg
+/home/parallels/Pictures/Rage Faces/inglip_hail inglip.jpg
+/home/parallels/Pictures/Rage Faces/inglip_hood1.png
+/home/parallels/Pictures/Rage Faces/inglip_hood2.png
+/home/parallels/Pictures/Rage Faces/inglip_ircip.jpg
+/home/parallels/Pictures/Rage Faces/inglip_ready to battle.jpg
+/home/parallels/Pictures/Rage Faces/ing_milk.png
+/home/parallels/Pictures/Rage Faces/ing_onion.png
+/home/parallels/Pictures/Rage Faces/ing_pepper.png
+/home/parallels/Pictures/Rage Faces/ing_pepper green.png
+/home/parallels/Pictures/Rage Faces/ing_pepper red.png
+/home/parallels/Pictures/Rage Faces/ing_salt.png
+/home/parallels/Pictures/Rage Faces/ing_tomato.png
+/home/parallels/Pictures/Rage Faces/iseewhatyoudidthere.png
+/home/parallels/Pictures/Rage Faces/joint.png
+/home/parallels/Pictures/Rage Faces/joint2.png
+/home/parallels/Pictures/Rage Faces/joint3.png
+/home/parallels/Pictures/Rage Faces/launch_box.png
+/home/parallels/Pictures/Rage Faces/like a lady.png
+/home/parallels/Pictures/Rage Faces/like a sir.png
+/home/parallels/Pictures/Rage Faces/like a sir wine.png
+/home/parallels/Pictures/Rage Faces/LOL.png
+/home/parallels/Pictures/Rage Faces/me gusta mucho creepy.png
+/home/parallels/Pictures/Rage Faces/melvin.png
+/home/parallels/Pictures/Rage Faces/melvin fuck yeah.png
+/home/parallels/Pictures/Rage Faces/Milk.png
+/home/parallels/Pictures/Rage Faces/mom.png
+/home/parallels/Pictures/Rage Faces/MotherofGod.png
+/home/parallels/Pictures/Rage Faces/munchies.png
+/home/parallels/Pictures/Rage Faces/NewspaperGuy.png
+/home/parallels/Pictures/Rage Faces/NewspaperGuyTear.png
+/home/parallels/Pictures/Rage Faces/No.png
+/home/parallels/Pictures/Rage Faces/no me gusta with words.png
+/home/parallels/Pictures/Rage Faces/notbadobama.png
+/home/parallels/Pictures/Rage Faces/nothingtodohere.png
+/home/parallels/Pictures/Rage Faces/not okay smile.png
+/home/parallels/Pictures/Rage Faces/not sure if gusta.png
+/home/parallels/Pictures/Rage Faces/now kiss.png
+/home/parallels/Pictures/Rage Faces/Numb.png
+/home/parallels/Pictures/Rage Faces/o face tears and sweat so sweet i love the release mmm yeah.png
+/home/parallels/Pictures/Rage Faces/oh god.png
+/home/parallels/Pictures/Rage Faces/oh god eesh.png
+/home/parallels/Pictures/Rage Faces/OhGodWhy.png
+/home/parallels/Pictures/Rage Faces/ohhhyes.png
+/home/parallels/Pictures/Rage Faces/ohhhyesfront.png
+/home/parallels/Pictures/Rage Faces/oh no.png
+/home/parallels/Pictures/Rage Faces/oh stop it you.png
+/home/parallels/Pictures/Rage Faces/okay i lied.png
+/home/parallels/Pictures/Rage Faces/okay mexican.png
+/home/parallels/Pictures/Rage Faces/okay no words.png
+/home/parallels/Pictures/Rage Faces/okay with words.png
+/home/parallels/Pictures/Rage Faces/omgrun.png
+/home/parallels/Pictures/Rage Faces/OperaHat.png
+/home/parallels/Pictures/Rage Faces/OriginalRage.png
+/home/parallels/Pictures/Rage Faces/OriginalRage2.png
+/home/parallels/Pictures/Rage Faces/pffttchhchh busted.png
+/home/parallels/Pictures/Rage Faces/pffttchhchhh.png
+/home/parallels/Pictures/Rage Faces/pfftttch.png
+/home/parallels/Pictures/Rage Faces/Pig.png
+/home/parallels/Pictures/Rage Faces/pineapple.png
+/home/parallels/Pictures/Rage Faces/pipe1.png
+/home/parallels/Pictures/Rage Faces/pipe2.png
+/home/parallels/Pictures/Rage Faces/pipe3.png
+/home/parallels/Pictures/Rage Faces/playful tongue.png
+/home/parallels/Pictures/Rage Faces/poker face.png
+/home/parallels/Pictures/Rage Faces/poker face thick.png
+/home/parallels/Pictures/Rage Faces/pot leaf.png
+/home/parallels/Pictures/Rage Faces/problem guy okay.png
+/home/parallels/Pictures/Rage Faces/problemo.jpg
+/home/parallels/Pictures/Rage Faces/problemo 2.png
+/home/parallels/Pictures/Rage Faces/radio1.jpg
+/home/parallels/Pictures/Rage Faces/radio2.jpg
+/home/parallels/Pictures/Rage Faces/radio3.jpg
+/home/parallels/Pictures/Rage Faces/radio4.jpg
+/home/parallels/Pictures/Rage Faces/radio5.jpg
+/home/parallels/Pictures/Rage Faces/radio6.jpg
+/home/parallels/Pictures/Rage Faces/radio7.jpg
+/home/parallels/Pictures/Rage Faces/radio8.jpg
+/home/parallels/Pictures/Rage Faces/rage2panel.png
+/home/parallels/Pictures/Rage Faces/rage blank.png
+/home/parallels/Pictures/Rage Faces/rage cat.jpg
+/home/parallels/Pictures/Rage Faces/rage classic.png
+/home/parallels/Pictures/Rage Faces/rage confused.png
+/home/parallels/Pictures/Rage Faces/rage extreme.jpg
+/home/parallels/Pictures/Rage Faces/rage happy.png
+/home/parallels/Pictures/Rage Faces/RageLion.png
+/home/parallels/Pictures/Rage Faces/rage nuclear.jpg
+/home/parallels/Pictures/Rage Faces/rage omega.jpg
+/home/parallels/Pictures/Rage Faces/rage quiet.png
+/home/parallels/Pictures/Rage Faces/rage rasta.png
+/home/parallels/Pictures/Rage Faces/rage reddit alien.png
+/home/parallels/Pictures/Rage Faces/rage super.png
+/home/parallels/Pictures/Rage Faces/rainbow puke.png
+/home/parallels/Pictures/Rage Faces/red_big smile.png
+/home/parallels/Pictures/Rage Faces/red_concentrated.png
+/home/parallels/Pictures/Rage Faces/red_crying.png
+/home/parallels/Pictures/Rage Faces/red_dazed.png
+/home/parallels/Pictures/Rage Faces/red_determined.png
+/home/parallels/Pictures/Rage Faces/RedditAlien.png
+/home/parallels/Pictures/Rage Faces/RedditAlien2.png
+/home/parallels/Pictures/Rage Faces/RedditAlien3.png
+/home/parallels/Pictures/Rage Faces/red_dude.png
+/home/parallels/Pictures/Rage Faces/red_dumbfounded.png
+/home/parallels/Pictures/Rage Faces/red_ewbte.png
+/home/parallels/Pictures/Rage Faces/red_excited.png
+/home/parallels/Pictures/Rage Faces/red_excited bliss.png
+/home/parallels/Pictures/Rage Faces/red_excited tears.png
+/home/parallels/Pictures/Rage Faces/red_facepalm.png
+/home/parallels/Pictures/Rage Faces/red_fake smile.png
+/home/parallels/Pictures/Rage Faces/red_forever alone.png
+/home/parallels/Pictures/Rage Faces/red_freddie.png
+/home/parallels/Pictures/Rage Faces/red_fuck that bitch.png
+/home/parallels/Pictures/Rage Faces/red_fuck yeah.png
+/home/parallels/Pictures/Rage Faces/red_gasp.jpg
+/home/parallels/Pictures/Rage Faces/red_gasp2.jpg
+/home/parallels/Pictures/Rage Faces/red_happy.png
+/home/parallels/Pictures/Rage Faces/red_hmmm.png
+/home/parallels/Pictures/Rage Faces/red_i wonder.png
+/home/parallels/Pictures/Rage Faces/red_ladystare.jpg
+/home/parallels/Pictures/Rage Faces/red_ladystare2.jpg
+/home/parallels/Pictures/Rage Faces/red_lean.png
+/home/parallels/Pictures/Rage Faces/red_lol.png
+/home/parallels/Pictures/Rage Faces/red_me gusta.png
+/home/parallels/Pictures/Rage Faces/red_milk.png
+/home/parallels/Pictures/Rage Faces/red_normal.png
+/home/parallels/Pictures/Rage Faces/red_normal2.png
+/home/parallels/Pictures/Rage Faces/red_okay.png
+/home/parallels/Pictures/Rage Faces/red_omgrun.png
+/home/parallels/Pictures/Rage Faces/red_pfft.png
+/home/parallels/Pictures/Rage Faces/red_pokerface.png
+/home/parallels/Pictures/Rage Faces/red_quite.png
+/home/parallels/Pictures/Rage Faces/red_rage.png
+/home/parallels/Pictures/Rage Faces/red_rage2.png
+/home/parallels/Pictures/Rage Faces/red_rage canadian.png
+/home/parallels/Pictures/Rage Faces/red_rage extreme.png
+/home/parallels/Pictures/Rage Faces/red_rage extreme2.png
+/home/parallels/Pictures/Rage Faces/red_rage foaming.png
+/home/parallels/Pictures/Rage Faces/red_rage getting pissed.png
+/home/parallels/Pictures/Rage Faces/red_rage mad.png
+/home/parallels/Pictures/Rage Faces/red_rage mad2.png
+/home/parallels/Pictures/Rage Faces/red_rage quiet.png
+/home/parallels/Pictures/Rage Faces/red_rage shaking.png
+/home/parallels/Pictures/Rage Faces/red_rage super.png
+/home/parallels/Pictures/Rage Faces/red_really determined.png
+/home/parallels/Pictures/Rage Faces/red_red tongue.png
+/home/parallels/Pictures/Rage Faces/red_schlick.png
+/home/parallels/Pictures/Rage Faces/red_smile.png
+/home/parallels/Pictures/Rage Faces/red_sweet tears.png
+/home/parallels/Pictures/Rage Faces/red_tongue down.png
+/home/parallels/Pictures/Rage Faces/red_troll.png
+/home/parallels/Pictures/Rage Faces/red_troll sad.png
+/home/parallels/Pictures/Rage Faces/red_what.png
+/home/parallels/Pictures/Rage Faces/red_why.png
+/home/parallels/Pictures/Rage Faces/red_why no hands.png
+/home/parallels/Pictures/Rage Faces/red_wut.png
+/home/parallels/Pictures/Rage Faces/RetardDog.png
+/home/parallels/Pictures/Rage Faces/Rich Fu.png
+/home/parallels/Pictures/Rage Faces/sadmelvin.png
+/home/parallels/Pictures/Rage Faces/sad plain.png
+/home/parallels/Pictures/Rage Faces/seriouslyChan.png
+/home/parallels/Pictures/Rage Faces/seriouslyChanFemale.png
+/home/parallels/Pictures/Rage Faces/Shaking.png
+/home/parallels/Pictures/Rage Faces/SideMouth.png
+/home/parallels/Pictures/Rage Faces/skillet.png
+/home/parallels/Pictures/Rage Faces/Smile2.png
+/home/parallels/Pictures/Rage Faces/soldier1.jpg
+/home/parallels/Pictures/Rage Faces/soldier2.jpg
+/home/parallels/Pictures/Rage Faces/soldier3.jpg
+/home/parallels/Pictures/Rage Faces/soldier_commander1.jpg
+/home/parallels/Pictures/Rage Faces/soldier_commander2.jpg
+/home/parallels/Pictures/Rage Faces/soldier_commander3.jpg
+/home/parallels/Pictures/Rage Faces/soldier_engineer.jpg
+/home/parallels/Pictures/Rage Faces/soldier_engineer2.jpg
+/home/parallels/Pictures/Rage Faces/soldier_gunners.jpg
+/home/parallels/Pictures/Rage Faces/soldier_lookout.jpg
+/home/parallels/Pictures/Rage Faces/soldier_march.jpg
+/home/parallels/Pictures/Rage Faces/soldier_rapel.jpg
+/home/parallels/Pictures/Rage Faces/soldier_sniper1.jpg
+/home/parallels/Pictures/Rage Faces/soldier_sniper2.jpg
+/home/parallels/Pictures/Rage Faces/soldier_tank.jpg
+/home/parallels/Pictures/Rage Faces/SonMeGusta.png
+/home/parallels/Pictures/Rage Faces/speech.png
+/home/parallels/Pictures/Rage Faces/speech2.png
+/home/parallels/Pictures/Rage Faces/speech3.png
+/home/parallels/Pictures/Rage Faces/speech4.png
+/home/parallels/Pictures/Rage Faces/speech5.png
+/home/parallels/Pictures/Rage Faces/speech6.png
+/home/parallels/Pictures/Rage Faces/spiderpman.png
+/home/parallels/Pictures/Rage Faces/stare.png
+/home/parallels/Pictures/Rage Faces/stare2panel.png
+/home/parallels/Pictures/Rage Faces/stoned.png
+/home/parallels/Pictures/Rage Faces/stoned exhale.png
+/home/parallels/Pictures/Rage Faces/stoned inhale.png
+/home/parallels/Pictures/Rage Faces/stoned what.png
+/home/parallels/Pictures/Rage Faces/stoned what no words.png
+/home/parallels/Pictures/Rage Faces/strategize1.jpg
+/home/parallels/Pictures/Rage Faces/strategize2.jpg
+/home/parallels/Pictures/Rage Faces/strategize3.jpg
+/home/parallels/Pictures/Rage Faces/strategize4.jpg
+/home/parallels/Pictures/Rage Faces/strategize5.jpg
+/home/parallels/Pictures/Rage Faces/strategize6.jpg
+/home/parallels/Pictures/Rage Faces/surprised.png
+/home/parallels/Pictures/Rage Faces/surprised open mouth.png
+/home/parallels/Pictures/Rage Faces/surprised wide open mouth.png
+/home/parallels/Pictures/Rage Faces/sweetjesusface.png
+/home/parallels/Pictures/Rage Faces/ten guy.png
+/home/parallels/Pictures/Rage Faces/that feel.png
+/home/parallels/Pictures/Rage Faces/thefuck.png
+/home/parallels/Pictures/Rage Faces/thefuckFemale.png
+/home/parallels/Pictures/Rage Faces/thefuckFemaleBlonde.png
+/home/parallels/Pictures/Rage Faces/ThingsWentOkay.png
+/home/parallels/Pictures/Rage Faces/ThrowUpInMouth.png
+/home/parallels/Pictures/Rage Faces/tokerface.png
+/home/parallels/Pictures/Rage Faces/Troll.png
+/home/parallels/Pictures/Rage Faces/trollbaby.png
+/home/parallels/Pictures/Rage Faces/TrollDad.png
+/home/parallels/Pictures/Rage Faces/TrollDadFull.png
+/home/parallels/Pictures/Rage Faces/troll dad jump.png
+/home/parallels/Pictures/Rage Faces/troll dad monocle.png
+/home/parallels/Pictures/Rage Faces/troll hot.png
+/home/parallels/Pictures/Rage Faces/troll insane.png
+/home/parallels/Pictures/Rage Faces/troll mom jump.png
+/home/parallels/Pictures/Rage Faces/trollol.png
+/home/parallels/Pictures/Rage Faces/TrueStory.png
+/home/parallels/Pictures/Rage Faces/visine.png
+/home/parallels/Pictures/Rage Faces/wait.png
+/home/parallels/Pictures/Rage Faces/what.png
+/home/parallels/Pictures/Rage Faces/whathaveyoudone.jpg
+/home/parallels/Pictures/Rage Faces/why inverted.png
+/home/parallels/Pictures/Rage Faces/xmashat.png
+/home/parallels/Pictures/Rage Faces/yawn.png
+/home/parallels/Pictures/Rage Faces/you dont say.png
+/home/parallels/Pictures/Rage Faces/youthful fear.png
+/home/parallels/Pictures/Rage Faces/yuno.png
+/home/parallels/Pictures/Rage Faces/yuno-blue.png
+/home/parallels/Pictures/Rage Faces/obama.png
